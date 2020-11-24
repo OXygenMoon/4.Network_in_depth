@@ -4,7 +4,7 @@
 <a href="https://i.loli.net/2020/11/11/SBZ2mFJGKLjUtTO.jpg" target="_blank"><img src="https://img.shields.io/badge/微信-@OXygen-f1d1d1.svg?style=flat-square&logo=WeChat"></a>
 
 
-# # 计算机网络 第一章
+# 计算机网络 第一章
 
 >   计算机网络第一章的主要内容是 : 概述
 
